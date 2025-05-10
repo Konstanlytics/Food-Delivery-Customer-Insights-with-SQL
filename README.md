@@ -171,7 +171,7 @@ This insight helps decide where the business should invest — like boosting top
 
 ---
 
-🛠️ **Tools Used:** SQL (CTEs, ROW_NUMBER, date functions)
+🛠️ **Tools Used:** SQL 
 
 📁 **Dataset:** `orders` table containing customer, order, promo, and restaurant information.
 
